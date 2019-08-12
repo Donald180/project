@@ -1,0 +1,38 @@
+body{
+    text-indent: 10px;
+    background-color: #b6c590;
+    color: #75805a;
+}
+
+.topnav{
+    position: static;
+    background-color: #5a7721;
+    overflow: hidden;
+    font-family: 'Blinker', sans-serif;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Blinker', sans-serif;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    font-family: 'Blinker', sans-serif;
+}
+
+.topnav a.active {
+    background-color: #cfb997;
+    color: white;
+}
+
+ol{
+    color: #75805a;
+    font-size: 14px;
+}
